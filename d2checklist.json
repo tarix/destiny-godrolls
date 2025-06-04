@@ -1,7 +1,7 @@
 {
-  "title": "Official D2Checklist Rolls - Meggito S25.1",
-  "date": "2024-11-27T12:50:00.000Z",
-  "manifestVersion": "229444.24.11.09.2354-1-bnet.57652",
+  "title": "Provisional D2Checklist Rolls - Year 7, Episode 3 (2025.06.04)",
+  "date": "2025-06-04T14:54:53.319Z",
+  "manifestVersion": "234273.25.05.26.2000-2-bnet.60082",
   "rolls": [
     {
       "name": "1000 yard stare",
@@ -3469,6 +3469,104 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "backfang",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "shield duration"
+        ],
+        "greatPerks": [
+          "auxiliary reserves",
+          "appended mag",
+          "impulse amplifier",
+          "voltshot"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "swap mag",
+          "light mag",
+          "grave robber",
+          "lead from gold",
+          "unrelenting",
+          "wellspring",
+          "desperate measures"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "shield duration"
+        ],
+        "greatPerks": [
+          "ballistic tuning",
+          "accurized rounds",
+          "impulse amplifier",
+          "unstoppable force"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "auxiliary reserves",
+          "swap mag",
+          "light mag",
+          "replenishing aegis",
+          "tilting at windmills",
+          "close to melee",
+          "desperate measures"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "backfang",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "shield duration"
+        ],
+        "greatPerks": [
+          "auxiliary reserves",
+          "appended mag",
+          "impulse amplifier",
+          "voltshot"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "swap mag",
+          "light mag",
+          "grave robber",
+          "lead from gold",
+          "unrelenting",
+          "wellspring",
+          "desperate measures"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "shield duration"
+        ],
+        "greatPerks": [
+          "ballistic tuning",
+          "accurized rounds",
+          "impulse amplifier",
+          "unstoppable force"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "auxiliary reserves",
+          "swap mag",
+          "light mag",
+          "replenishing aegis",
+          "tilting at windmills",
+          "close to melee",
+          "desperate measures"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "bad news xf4354",
@@ -10516,6 +10614,92 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "cynosure",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "impact casing",
+          "reconstruction",
+          "explosive light"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "high-velocity rounds",
+          "field prep",
+          "clown cartridge",
+          "high ground",
+          "bipod"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "tracking module",
+          "chain reaction"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "danger zone",
+          "cluster bomb"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "cynosure",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "impact casing",
+          "reconstruction",
+          "explosive light"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "high-velocity rounds",
+          "field prep",
+          "clown cartridge",
+          "high ground",
+          "bipod"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "tracking module",
+          "chain reaction"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "danger zone",
+          "cluster bomb"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "d.f.a.",
@@ -24876,6 +25060,99 @@
       "controller": false
     },
     {
+      "name": "joxer's longsword",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rewind rounds",
+          "destabilizing rounds"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "dragonfly",
+          "repulsor brace",
+          "withering gaze",
+          "demoralize"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "lone wolf",
+          "headseeker"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "ricochet rounds",
+          "gutshot straight",
+          "enlightened action",
+          "desperate measures",
+          "zen moment"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "joxer's longsword",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rewind rounds",
+          "destabilizing rounds"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "dragonfly",
+          "repulsor brace",
+          "withering gaze",
+          "demoralize"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "lone wolf",
+          "zen moment"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "gutshot straight",
+          "enlightened action",
+          "headseeker",
+          "desperate measures"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "judgment",
       "sheet": "lost - controller",
       "pve": {
@@ -37465,6 +37742,101 @@
       "controller": false
     },
     {
+      "name": "redrix's estoc",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "perpetual motion",
+          "desperate measures",
+          "short-action stock"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "rimestealer",
+          "demolitionist",
+          "desperado",
+          "headstone"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "lone wolf",
+          "sword logic",
+          "short-action stock"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "zen moment",
+          "demolitionist",
+          "headseeker",
+          "kill clip"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "redrix's estoc",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "perpetual motion",
+          "desperate measures",
+          "short-action stock"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "rimestealer",
+          "demolitionist",
+          "desperado",
+          "headstone"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accurized rounds",
+          "zen moment",
+          "sword logic",
+          "short-action stock"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "hammer-forged rifling",
+          "lone wolf",
+          "demolitionist",
+          "headseeker",
+          "rapid hit"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "reed's regret",
       "sheet": "lost - controller",
       "pve": {
@@ -37721,6 +38093,78 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "resounding",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "particle repeater",
+          "subsistence",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "cornered",
+          "reservoir burst"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "particle repeater",
+          "subsistence",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "cornered",
+          "reservoir burst"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "resounding",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "particle repeater",
+          "subsistence",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "cornered",
+          "reservoir burst"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "particle repeater",
+          "subsistence",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "cornered",
+          "reservoir burst"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "retold tale",
