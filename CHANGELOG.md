@@ -60,3 +60,11 @@ Added
 * Unvoiced (Void Shotgun)
 * Unworthy (Arc Scout Rifle)
 
+Updated
+* Corrective Measure (Void Machine Gun)
+* Fatebringer (Kinetic Hand Cannon)
+* Found Verdict (Arc Shotgun)
+* Hezen Vengeance (Solar Rocket Launcher)
+* Praedyth's Revenge (Kinetic Sniper Rifle)
+* Vision of Confluence (Solar Scout Rifle)
+
