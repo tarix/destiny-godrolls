@@ -68,3 +68,10 @@ Updated
 * Praedyth's Revenge (Kinetic Sniper Rifle)
 * Vision of Confluence (Solar Scout Rifle)
 
+Updated
+* Hullabaloo (Arc Grenade Launcher)
+* Taraxippos (Strand Scout Rifle)
+* The Title (Void Submachine Gun)
+Added
+* Keraunios (Arc Trace Rifle)
+
