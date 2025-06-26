@@ -19,3 +19,12 @@ Added
 * Redrix's Estoc (Stasis Pulse Rifle)
 * Resounding (Strand Fusion Rifle)
 
+Updated
+* Exalted Truth (Void Hand Cannon)
+* Peacebond (Stasis Sidearm)
+* The Palindrome (Arc Hand Cannon)
+Added
+* Keen Thistle (Solar Sniper Rifle)
+* Lotus-Eater (Void Sidearm)
+* Warlord's Spear (Arc Trace Rifle)
+
