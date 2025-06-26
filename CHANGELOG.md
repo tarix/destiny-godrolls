@@ -80,3 +80,14 @@ Added
 * Finality's Auger (Exotic Solar Linear Fusion Rifle)
 * Lodestar (Exotic Arc Trace Rifle)
 
+Updated
+* Liminal Vigil (Stasis Sidearm)
+* Long Arm (Arc Scout Rifle)
+* Terminus Horizon (Arc Machine Gun)
+* The Inquisitor (Arc Shotgun)
+* Wilderflight (Void Grenade Launcher)
+Added
+* Cruel Mercy (Arc Pulse Rifle)
+* Nature Reclaimed (Solar Scout Rifle)
+* New Land Beyond (Exotic Kinetic Sniper Rifle)
+
