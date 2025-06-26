@@ -48,3 +48,9 @@ Added
 * Mirror Imago (Strand Submachine Gun)
 * Refusal of the Call (Strand Glaive)
 
+Added
+* Admetus-D (Void Scout Rifle)
+* Boondoggle Mk. 55 (Kinetic Submachine Gun)
+* Cruoris FR4 (Arc Fusion Rifle)
+* Qua Furor V (Stasis Machine Gun)
+
