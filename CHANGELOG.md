@@ -91,3 +91,9 @@ Added
 * Nature Reclaimed (Solar Scout Rifle)
 * New Land Beyond (Exotic Kinetic Sniper Rifle)
 
+Updated
+* Cold Comfort (Stasis Rocket Launcher)
+* Greasy Luck (Solar Glaive)
+* New Pacific Epitaph (Stasis Grenade Launcher)
+* No Survivors (Solar Submachine Gun)
+
