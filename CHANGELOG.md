@@ -75,3 +75,8 @@ Updated
 Added
 * Keraunios (Arc Trace Rifle)
 
+Added
+* Barrow-Dyad (Exotic Strand Submachine Gun)
+* Finality's Auger (Exotic Solar Linear Fusion Rifle)
+* Lodestar (Exotic Arc Trace Rifle)
+
