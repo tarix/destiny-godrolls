@@ -97,3 +97,9 @@ Updated
 * New Pacific Epitaph (Stasis Grenade Launcher)
 * No Survivors (Solar Submachine Gun)
 
+Updated
+* A Sudden Death (Void Shotgun)
+* Judgment (Stasis Hand Cannon)
+* Prosecutor (Arc Auto Rifle)
+* Relentless (Strand Pulse Rifle)
+
