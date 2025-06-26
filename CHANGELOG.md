@@ -12,3 +12,10 @@ Updated
 Added
 * Aisha's Care (Strand Pulse Rifle)
 
+Added
+* Backfang (Arc Glaive)
+* Cynosure (Strand Rocket Launcher)
+* Joxer's Longsword (Void Pulse Rifle)
+* Redrix's Estoc (Stasis Pulse Rifle)
+* Resounding (Strand Fusion Rifle)
+
