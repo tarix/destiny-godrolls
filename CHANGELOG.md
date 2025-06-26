@@ -54,3 +54,9 @@ Added
 * Cruoris FR4 (Arc Fusion Rifle)
 * Qua Furor V (Stasis Machine Gun)
 
+Added
+* Unloved (Strand Hand Cannon)
+* Unsworn (Strand Trace Rifle)
+* Unvoiced (Void Shotgun)
+* Unworthy (Arc Scout Rifle)
+
