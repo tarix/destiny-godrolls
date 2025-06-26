@@ -41,3 +41,10 @@ Added
 * Psychopomp (Arc Grenade Launcher)
 * Watchful Eye (Arc Machine Gun)
 
+Added
+* Afterlight (Void Fusion Rifle)
+* Anamnesis (Void Combat Bow)
+* Division (Arc Sidearm)
+* Mirror Imago (Strand Submachine Gun)
+* Refusal of the Call (Strand Glaive)
+
