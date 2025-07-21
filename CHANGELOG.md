@@ -1,6 +1,14 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Sundered Doctrine Weapon Breakdown (pandapaxxy)
+
+Added
+* Unloved (Strand Hand Cannon)
+* Unsworn (Strand Trace Rifle)
+* Unvoiced (Void Shotgun)
+* Unworthy (Arc Scout Rifle)
+
 Hersey World Drop Weapon Breakdown (pandapaxxy)
 
 Added

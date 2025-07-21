@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:06.076Z",
+  "date": "2025-07-21T19:17:06.690Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -55020,6 +55020,182 @@
       "controller": false
     },
     {
+      "name": "unloved",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "rapid hit",
+          "paracausal affinity"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "dragonfly",
+          "hatchling",
+          "frenzy",
+          "tear"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "rapid hit",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "killing wind",
+          "closing time"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "unloved",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "rapid hit",
+          "paracausal affinity"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "dragonfly",
+          "hatchling",
+          "frenzy",
+          "tear"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "rapid hit",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "killing wind",
+          "closing time"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
+      "name": "unsworn",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "rewind rounds",
+          "detonator beam"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "light battery",
+          "tactical battery",
+          "subsistence",
+          "tear",
+          "target lock",
+          "killing tally"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "projection fuse",
+          "tear",
+          "target lock"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "light battery",
+          "thresh",
+          "killing tally"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "unsworn",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "rewind rounds",
+          "detonator beam"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "light battery",
+          "tactical battery",
+          "subsistence",
+          "tear",
+          "target lock",
+          "killing tally"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "projection fuse",
+          "tear",
+          "target lock"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "light battery",
+          "thresh",
+          "killing tally"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "until its return",
       "sheet": "perkbench",
       "pve": {
@@ -55104,6 +55280,94 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "unvoiced",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "assault mag",
+          "destabilizing rounds",
+          "bait and switch"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "appended mag",
+          "tactical mag",
+          "fourth time's the charm",
+          "redirection",
+          "vorpal weapon",
+          "frenzy"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "assault mag",
+          "lone wolf",
+          "closing time"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "killing wind",
+          "demoralize"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "unvoiced",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "assault mag",
+          "destabilizing rounds",
+          "bait and switch"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "appended mag",
+          "tactical mag",
+          "fourth time's the charm",
+          "redirection",
+          "vorpal weapon",
+          "frenzy"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "assault mag",
+          "lone wolf",
+          "closing time"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "killing wind",
+          "demoralize"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "unwavering duty",
@@ -55192,6 +55456,97 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "unworthy",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rapid hit",
+          "frenzy"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "armor-piercing rounds",
+          "flared magwell",
+          "firefly",
+          "rewind rounds",
+          "paracausal affinity",
+          "precision instrument"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "rapid hit",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "firefly",
+          "keep away",
+          "zen moment"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "unworthy",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rapid hit",
+          "frenzy"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "armor-piercing rounds",
+          "flared magwell",
+          "firefly",
+          "rewind rounds",
+          "paracausal affinity",
+          "precision instrument"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "rapid hit",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "high-caliber rounds",
+          "firefly",
+          "keep away",
+          "zen moment"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "uriel's gift",
