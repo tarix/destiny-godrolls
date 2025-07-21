@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:07.309Z",
+  "date": "2025-07-21T19:17:07.946Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -23179,7 +23179,7 @@
     },
     {
       "name": "hullabaloo",
-      "sheet": "perkbench",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "velocity"
@@ -23187,55 +23187,83 @@
         "greatPerks": [
           "quick launch",
           "high-velocity rounds",
-          "envious assassin",
-          "cascade point"
+          "voltshot",
+          "chain reaction"
         ],
-        "goodPerks": []
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "envious assassin",
+          "demolitionist",
+          "one for all",
+          "cascade point"
+        ]
       },
       "pvp": {
         "masterwork": [
-          "velocity"
+          "blast radius"
         ],
         "greatPerks": [
           "quick launch",
           "high-velocity rounds",
           "impulse amplifier",
-          "disruption break"
+          "golden tricorn"
         ],
-        "goodPerks": []
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "hullabaloo",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "velocity"
-        ],
-        "greatPerks": [
-          "quick launch",
-          "high-velocity rounds",
-          "envious assassin",
-          "cascade point"
-        ],
-        "goodPerks": []
-      },
-      "pvp": {
-        "masterwork": [
-          "velocity"
-        ],
-        "greatPerks": [
-          "quick launch",
-          "high-velocity rounds",
-          "impulse amplifier",
-          "disruption break"
-        ],
-        "goodPerks": []
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "demolitionist",
+          "adrenaline junkie"
+        ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "hullabaloo",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "velocity"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "voltshot",
+          "chain reaction"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "envious assassin",
+          "demolitionist",
+          "one for all",
+          "cascade point"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "impulse amplifier",
+          "golden tricorn"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "demolitionist",
+          "adrenaline junkie"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "hung jury sr4",
@@ -26565,6 +26593,94 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "keraunios",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "overflow",
+          "detonator beam"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "light battery",
+          "tactical battery",
+          "recycled energy",
+          "eddy current",
+          "killing tally",
+          "jolting feedback"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "projection fuse",
+          "dynamic sway reduction",
+          "killing tally"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "recycled energy",
+          "closing time",
+          "killing wind"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "keraunios",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "overflow",
+          "detonator beam"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "light battery",
+          "tactical battery",
+          "recycled energy",
+          "eddy current",
+          "killing tally",
+          "jolting feedback"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "projection fuse",
+          "dynamic sway reduction",
+          "killing tally"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "recycled energy",
+          "closing time",
+          "killing wind"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "kindled orchid",
@@ -46931,57 +47047,25 @@
     },
     {
       "name": "taraxippos",
-      "sheet": "perkbench",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "handling",
-          "stability"
+          "reload speed"
         ],
         "greatPerks": [
           "arrowhead brake",
-          "tactical mag",
-          "outlaw",
-          "hatchling",
+          "appended mag",
           "fourth time's the charm",
-          "precision instrument"
-        ],
-        "goodPerks": []
-      },
-      "pvp": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "arrowhead brake",
-          "moving target",
-          "kill clip",
-          "accurized rounds",
-          "steady rounds",
-          "zen moment"
-        ],
-        "goodPerks": [
-          "explosive payload",
-          "flared magwell"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "taraxippos",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "arrowhead brake",
-          "tactical mag",
-          "outlaw",
           "hatchling"
         ],
         "goodPerks": [
-          "fourth time's the charm"
+          "fluted barrel",
+          "corkscrew rifling",
+          "tactical mag",
+          "flared magwell",
+          "enlightened action",
+          "high ground",
+          "tear"
         ]
       },
       "pvp": {
@@ -46990,19 +47074,64 @@
         ],
         "greatPerks": [
           "arrowhead brake",
-          "steady rounds",
-          "moving target",
-          "kill clip",
-          "flared magwell",
-          "enlightened action"
+          "accurized rounds",
+          "zen moment",
+          "kill clip"
         ],
         "goodPerks": [
+          "fluted barrel",
+          "keep away",
+          "lone wolf",
           "explosive payload",
-          "zen moment"
+          "high ground"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "taraxippos",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "fourth time's the charm",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "tactical mag",
+          "flared magwell",
+          "enlightened action",
+          "high ground",
+          "tear"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accurized rounds",
+          "zen moment",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "keep away",
+          "lone wolf",
+          "explosive payload",
+          "high ground"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "targeted redaction",
@@ -51610,103 +51739,93 @@
     },
     {
       "name": "the title",
-      "sheet": "perkbench",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "reload speed"
+          "stability"
         ],
         "greatPerks": [
-          "fluted barrel",
+          "corkscrew rifling",
           "appended mag",
-          "envious assassin",
-          "surrounded",
-          "arrowhead brake",
-          "flared magwell",
-          "threat detector",
-          "smallbore",
-          "ricochet rounds",
           "repulsor brace",
           "destabilizing rounds"
         ],
         "goodPerks": [
-          "polygonal rifling",
-          "tactical mag",
-          "perpetual motion",
-          "vorpal weapon"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range",
-          "stability"
-        ],
-        "greatPerks": [
-          "accurized rounds",
-          "perpetual motion",
-          "rangefinder",
-          "hammer-forged rifling",
-          "smallbore",
-          "ricochet rounds",
-          "offhand strike",
-          "dynamic sway reduction",
-          "swashbuckler"
-        ],
-        "goodPerks": [
-          "threat detector"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "the title",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
           "fluted barrel",
-          "appended mag",
-          "envious assassin",
-          "surrounded",
-          "arrowhead brake",
-          "flared magwell",
-          "threat detector",
           "smallbore",
-          "ricochet rounds",
-          "repulsor brace",
-          "destabilizing rounds"
-        ],
-        "goodPerks": [
-          "polygonal rifling",
-          "tactical mag",
-          "perpetual motion",
-          "vorpal weapon"
+          "armor-piercing rounds",
+          "flared magwell",
+          "recycled energy",
+          "demoralize",
+          "surrounded"
         ]
       },
       "pvp": {
         "masterwork": [
-          "range",
           "stability"
         ],
         "greatPerks": [
-          "accurized rounds",
-          "perpetual motion",
-          "hammer-forged rifling",
-          "arrowhead brake",
-          "ricochet rounds",
-          "dynamic sway reduction",
-          "rangefinder",
           "smallbore",
+          "ricochet rounds",
+          "threat detector",
           "swashbuckler"
         ],
         "goodPerks": [
-          "threat detector"
+          "fluted barrel",
+          "corkscrew rifling",
+          "high-caliber rounds",
+          "perpetual motion",
+          "to the pain",
+          "rangefinder"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "the title",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "corkscrew rifling",
+          "appended mag",
+          "repulsor brace",
+          "destabilizing rounds"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "recycled energy",
+          "demoralize",
+          "surrounded"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "ricochet rounds",
+          "threat detector",
+          "swashbuckler"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "high-caliber rounds",
+          "perpetual motion",
+          "to the pain",
+          "rangefinder"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "the vision",

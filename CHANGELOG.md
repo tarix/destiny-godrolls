@@ -1,6 +1,15 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Heresey Guardian Games Weapon Breakdown (pandapaxxy)
+
+Replaced
+* Hullabaloo (Arc Grenade Launcher)
+* Taraxippos (Strand Scout Rifle)
+* The Title (Void Submachine Gun)
+Added
+* Keraunios (Arc Trace Rifle)
+
 Vault of Glass Weapon Refresh Breakdown (pandapaxxy)
 
 Replaced
