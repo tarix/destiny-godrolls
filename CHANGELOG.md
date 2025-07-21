@@ -1,6 +1,19 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Rite of the Nine (Week 1) Weapon Breakdown (warlockmaggie)
+
+Replaced
+* Liminal Vigil (Stasis Sidearm)
+* Long Arm (Arc Scout Rifle)
+* Terminus Horizon (Arc Machine Gun)
+* The Inquisitor (Arc Shotgun)
+* Wilderflight (Void Grenade Launcher)
+Added
+* Cruel Mercy (Arc Pulse Rifle)
+* Nature Reclaimed (Solar Scout Rifle)
+* New Land Beyond (Exotic Kinetic Sniper Rifle)
+
 Heresey Exotic Weapon Breakdown (pandapaxxy)
 
 Added
