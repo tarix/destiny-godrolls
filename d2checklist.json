@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:07.946Z",
+  "date": "2025-07-21T19:17:08.566Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -4633,6 +4633,92 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "barrow-dyad",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "taken divergence: taken resolution",
+          "polymer grip",
+          "one for all refit"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "flared magwell",
+          "taken ambition",
+          "empty traits socket",
+          "smooth grip",
+          "target lock refit"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "taken divergence: taken resolution",
+          "polymer grip",
+          "high-impact reserves refit"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "fluted barrel",
+          "ricochet rounds",
+          "taken ambition",
+          "smooth grip",
+          "hatchling refit"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "barrow-dyad",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "taken divergence: taken resolution",
+          "polymer grip",
+          "one for all refit"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "flared magwell",
+          "taken ambition",
+          "empty traits socket",
+          "smooth grip",
+          "target lock refit"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "taken divergence: taken resolution",
+          "polymer grip",
+          "high-impact reserves refit"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "fluted barrel",
+          "ricochet rounds",
+          "taken ambition",
+          "smooth grip",
+          "hatchling refit"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "basso ostinato",
@@ -18011,6 +18097,38 @@
       "controller": false
     },
     {
+      "name": "finality's auger",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [
+          "arrowhead brake",
+          "particle repeater",
+          "ruinscribe's beacon",
+          "short-action stock"
+        ],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "finality's auger",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [
+          "arrowhead brake",
+          "particle repeater",
+          "ruinscribe's beacon",
+          "short-action stock"
+        ],
+        "goodPerks": []
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "finite impactor",
       "sheet": "splicer - controller",
       "pve": {
@@ -28549,6 +28667,38 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "lodestar",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [
+          "fluted barrel",
+          "phase converter",
+          "arc alignment",
+          "composite stock"
+        ],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "lodestar",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [
+          "fluted barrel",
+          "phase converter",
+          "arc alignment",
+          "composite stock"
+        ],
+        "goodPerks": []
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "lonesome",

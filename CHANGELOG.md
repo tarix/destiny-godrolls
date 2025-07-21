@@ -1,6 +1,13 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Heresey Exotic Weapon Breakdown (pandapaxxy)
+
+Added
+* Barrow-Dyad (Exotic Strand Submachine Gun)
+* Finality's Auger (Exotic Solar Linear Fusion Rifle)
+* Lodestar (Exotic Arc Trace Rifle)
+
 Heresey Guardian Games Weapon Breakdown (pandapaxxy)
 
 Replaced
