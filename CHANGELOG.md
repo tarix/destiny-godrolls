@@ -1,6 +1,21 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Hersey Act 1 Weapon Breakdown (pandapaxxy)
+
+Replaced
+* Cold Denial (Kinetic Pulse Rifle)
+* False Promises (Stasis Auto Rifle)
+* Hollow Words (Arc Fusion Rifle)
+* Temptation's Hook (Arc Sword)
+* Whispering Slab (Kinetic Combat Bow)
+Added
+* Abyssal Edge (Strand Sword)
+* Adamantite (Strand Auto Rifle)
+* Eyes Unveiled (Void Linear Fusion Rifle)
+* Psychopomp (Arc Grenade Launcher)
+* Watchful Eye (Arc Machine Gun)
+
 Heresy Iron Banner, Nightfall, Trials of Osiris Weapon Breakdown (pandapaxxy)
 
 Replaced

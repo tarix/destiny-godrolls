@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:04.204Z",
+  "date": "2025-07-21T19:17:04.825Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -738,6 +738,86 @@
       "controller": false
     },
     {
+      "name": "abyssal edge",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster's guard",
+          "slice",
+          "redirection"
+        ],
+        "goodPerks": [
+          "tempered edge",
+          "hungry edge",
+          "relentless strikes",
+          "duelist's trance",
+          "surrounded",
+          "hatchling"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster's guard",
+          "tireless blade",
+          "en garde"
+        ],
+        "goodPerks": [
+          "valiant charge",
+          "flash counter"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "abyssal edge",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster's guard",
+          "slice",
+          "redirection"
+        ],
+        "goodPerks": [
+          "tempered edge",
+          "hungry edge",
+          "relentless strikes",
+          "duelist's trance",
+          "surrounded",
+          "hatchling"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster's guard",
+          "tireless blade",
+          "en garde"
+        ],
+        "goodPerks": [
+          "valiant charge",
+          "flash counter"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "acantha-d xk8434",
       "sheet": "forge",
       "pve": {
@@ -1054,6 +1134,89 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "adamantite",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "reciprocity",
+          "tear"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "slice",
+          "subsistence",
+          "frenzy",
+          "circle of life"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "demolitionist",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "pugilist"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "adamantite",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "reciprocity",
+          "tear"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "slice",
+          "subsistence",
+          "frenzy",
+          "circle of life"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accurized rounds",
+          "demolitionist",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "hammer-forged rifling",
+          "pugilist"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "adhortative",
@@ -8889,25 +9052,69 @@
     },
     {
       "name": "cold denial",
-      "sheet": "arrivals - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
         ],
         "greatPerks": [
-          "fluted barrel",
+          "arrowhead brake",
           "appended mag",
-          "feeding frenzy",
+          "ambitious assassin",
           "swashbuckler"
         ],
         "goodPerks": [
-          "polygonal rifling",
           "smallbore",
+          "armor-piercing rounds",
           "flared magwell",
-          "ricochet rounds",
-          "killing wind",
+          "enlightened action",
           "multikill clip",
-          "sympathetic arsenal"
+          "desperado"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "zen moment",
+          "headseeker"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "high-caliber rounds",
+          "enlightened action",
+          "surplus",
+          "gutshot straight",
+          "eye of the storm"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "cold denial",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "ambitious assassin",
+          "swashbuckler"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "enlightened action",
+          "multikill clip",
+          "desperado"
         ]
       },
       "pvp": {
@@ -8917,68 +9124,20 @@
         "greatPerks": [
           "arrowhead brake",
           "ricochet rounds",
-          "killing wind",
-          "unrelenting"
+          "zen moment",
+          "headseeker"
         ],
         "goodPerks": [
-          "chambered compensator",
           "smallbore",
           "high-caliber rounds",
-          "flared magwell",
-          "zen moment",
-          "feeding frenzy",
-          "eye of the storm",
-          "swashbuckler"
+          "enlightened action",
+          "surplus",
+          "gutshot straight",
+          "eye of the storm"
         ]
       },
       "mnk": false,
       "controller": true
-    },
-    {
-      "name": "cold denial",
-      "sheet": "arrivals - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "appended mag",
-          "feeding frenzy",
-          "swashbuckler"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "extended barrel",
-          "extended mag",
-          "light mag",
-          "killing wind",
-          "multikill clip",
-          "unrelenting"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range"
-        ],
-        "greatPerks": [
-          "extended barrel",
-          "high-caliber rounds",
-          "killing wind",
-          "unrelenting"
-        ],
-        "goodPerks": [
-          "full bore",
-          "fluted barrel",
-          "ricochet rounds",
-          "light mag",
-          "feeding frenzy",
-          "eye of the storm",
-          "multikill clip"
-        ]
-      },
-      "mnk": true,
-      "controller": false
     },
     {
       "name": "cold front",
@@ -16225,6 +16384,96 @@
       "controller": true
     },
     {
+      "name": "eyes unveiled",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accelerated coils",
+          "overflow",
+          "reservoir burst"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "ionized battery",
+          "triple tap",
+          "field prep",
+          "frenzy",
+          "chain reaction"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accelerated coils",
+          "perfect float",
+          "withering gaze"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "projection fuse",
+          "hip-fire grip",
+          "successful warm-up"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "eyes unveiled",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accelerated coils",
+          "overflow",
+          "reservoir burst"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "ionized battery",
+          "triple tap",
+          "field prep",
+          "frenzy",
+          "chain reaction"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "accelerated coils",
+          "perfect float",
+          "withering gaze"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "projection fuse",
+          "hip-fire grip",
+          "successful warm-up"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "eystein-d",
       "sheet": "forsaken",
       "pve": {
@@ -16598,74 +16847,26 @@
     },
     {
       "name": "false promises",
-      "sheet": "arrivals - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
         ],
         "greatPerks": [
-          "fluted barrel",
-          "ricochet rounds",
+          "arrowhead brake",
+          "appended mag",
           "feeding frenzy",
+          "cascade point"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "ambitious assassin",
+          "loose change",
+          "headstone",
           "swashbuckler"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "polygonal rifling",
-          "appended mag",
-          "extended mag",
-          "overflow",
-          "killing wind",
-          "rampage",
-          "surrounded"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "smallbore",
-          "ricochet rounds",
-          "dynamic sway reduction",
-          "unrelenting"
-        ],
-        "goodPerks": [
-          "polygonal rifling",
-          "fluted barrel",
-          "high-caliber rounds",
-          "flared magwell",
-          "killing wind",
-          "overflow",
-          "zen moment",
-          "eye of the storm"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "false promises",
-      "sheet": "arrivals - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "appended mag",
-          "feeding frenzy",
-          "rampage"
-        ],
-        "goodPerks": [
-          "smallbore",
-          "hammer-forged rifling",
-          "light mag",
-          "extended mag",
-          "overflow",
-          "subsistence",
-          "swashbuckler",
-          "unrelenting"
         ]
       },
       "pvp": {
@@ -16673,24 +16874,67 @@
           "range"
         ],
         "greatPerks": [
-          "fluted barrel",
-          "high-caliber rounds",
-          "dynamic sway reduction",
-          "unrelenting"
-        ],
-        "goodPerks": [
-          "smallbore",
           "hammer-forged rifling",
           "ricochet rounds",
-          "light mag",
-          "killing wind",
-          "feeding frenzy",
-          "swashbuckler",
-          "sympathetic arsenal"
+          "dynamic sway reduction",
+          "cascade point"
+        ],
+        "goodPerks": [
+          "arrowhead brake",
+          "high-caliber rounds",
+          "enlightened action",
+          "headstone",
+          "zen moment"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "false promises",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "feeding frenzy",
+          "cascade point"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "ambitious assassin",
+          "loose change",
+          "headstone",
+          "swashbuckler"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "dynamic sway reduction",
+          "cascade point"
+        ],
+        "goodPerks": [
+          "arrowhead brake",
+          "smallbore",
+          "high-caliber rounds",
+          "enlightened action",
+          "headstone",
+          "zen moment"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "far future",
@@ -21890,95 +22134,91 @@
     },
     {
       "name": "hollow words",
-      "sheet": "arrivals - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "reload speed"
+          "charge time"
         ],
         "greatPerks": [
-          "fluted barrel",
-          "ionized battery",
-          "feeding frenzy",
-          "vorpal weapon"
-        ],
-        "goodPerks": [
-          "polygonal rifling",
-          "chambered compensator",
-          "enhanced battery",
-          "liquid coils",
-          "lead from gold",
-          "killing wind",
-          "disruption break",
-          "surrounded"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "chambered compensator",
-          "particle repeater",
-          "slideways",
-          "vorpal weapon"
-        ],
-        "goodPerks": [
-          "smallbore",
-          "polygonal rifling",
-          "projection fuse",
-          "quickdraw",
-          "killing wind",
-          "disruption break",
-          "unrelenting"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "hollow words",
-      "sheet": "arrivals - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "ionized battery",
-          "feeding frenzy",
-          "vorpal weapon"
-        ],
-        "goodPerks": [
           "hammer-forged rifling",
+          "accelerated coils",
+          "feeding frenzy",
+          "rolling storm"
+        ],
+        "goodPerks": [
           "smallbore",
           "enhanced battery",
-          "liquid coils",
+          "ionized battery",
           "lead from gold",
-          "disruption break",
-          "unrelenting"
+          "vorpal weapon",
+          "successful warm-up"
         ]
       },
       "pvp": {
         "masterwork": [
-          "handling"
+          "range",
+          "charge time"
         ],
         "greatPerks": [
-          "fluted barrel",
-          "particle repeater",
-          "quickdraw",
-          "disruption break"
+          "hammer-forged rifling",
+          "accelerated coils",
+          "steady hands",
+          "successful warm-up"
         ],
         "goodPerks": [
-          "arrowhead brake",
           "smallbore",
+          "full bore",
           "projection fuse",
-          "killing wind",
-          "vorpal weapon",
-          "unrelenting"
+          "slickdraw",
+          "swashbuckler"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "hollow words",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accelerated coils",
+          "feeding frenzy",
+          "rolling storm"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "enhanced battery",
+          "ionized battery",
+          "lead from gold",
+          "vorpal weapon",
+          "successful warm-up"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accelerated coils",
+          "steady hands",
+          "successful warm-up"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "full bore",
+          "projection fuse",
+          "slickdraw",
+          "swashbuckler"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "honor's edge",
@@ -36418,6 +36658,92 @@
       "controller": false
     },
     {
+      "name": "psychopomp",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "ambitious assassin",
+          "rolling storm"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "feeding frenzy",
+          "envious arsenal",
+          "unrelenting"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "threat detector",
+          "harmony"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "demolitionist",
+          "unrelenting"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "psychopomp",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "ambitious assassin",
+          "rolling storm"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "feeding frenzy",
+          "envious arsenal",
+          "unrelenting"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "threat detector",
+          "harmony"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "implosion rounds",
+          "demolitionist",
+          "unrelenting"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "punching out",
       "sheet": "lost - controller",
       "pve": {
@@ -46555,7 +46881,7 @@
     },
     {
       "name": "temptation's hook",
-      "sheet": "arrivals - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "impact"
@@ -46563,17 +46889,16 @@
         "greatPerks": [
           "jagged edge",
           "swordmaster's guard",
-          "relentless strikes",
-          "vorpal weapon"
+          "tireless blade",
+          "collective action"
         ],
         "goodPerks": [
-          "honed edge",
           "tempered edge",
-          "heavy guard",
-          "burst guard",
-          "tireless blade",
-          "surrounded",
-          "whirlwind blade"
+          "hungry edge",
+          "relentless strikes",
+          "attrition orbs",
+          "chain reaction",
+          "valiant charge"
         ]
       },
       "pvp": {
@@ -46584,64 +46909,61 @@
           "jagged edge",
           "swordmaster's guard",
           "tireless blade",
-          "vorpal weapon"
+          "valiant charge"
         ],
         "goodPerks": [
-          "honed edge",
           "tempered edge",
-          "heavy guard",
-          "burst guard",
-          "relentless strikes",
-          "en garde"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "temptation's hook",
-      "sheet": "arrivals - mnk",
-      "pve": {
-        "masterwork": [
-          "impact"
-        ],
-        "greatPerks": [
-          "jagged edge",
-          "swordmaster's guard",
-          "relentless strikes",
-          "vorpal weapon"
-        ],
-        "goodPerks": [
-          "honed edge",
-          "tempered edge",
-          "heavy guard",
-          "burst guard",
-          "tireless blade",
-          "surrounded",
-          "whirlwind blade"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "impact"
-        ],
-        "greatPerks": [
-          "jagged edge",
-          "swordmaster's guard",
-          "tireless blade",
-          "vorpal weapon"
-        ],
-        "goodPerks": [
-          "honed edge",
-          "tempered edge",
-          "heavy guard",
-          "burst guard",
-          "relentless strikes",
+          "energy transfer",
+          "duelist's trance",
+          "assassin's blade",
           "en garde"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "temptation's hook",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster's guard",
+          "tireless blade",
+          "collective action"
+        ],
+        "goodPerks": [
+          "tempered edge",
+          "hungry edge",
+          "relentless strikes",
+          "attrition orbs",
+          "chain reaction",
+          "valiant charge"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster's guard",
+          "tireless blade",
+          "valiant charge"
+        ],
+        "goodPerks": [
+          "tempered edge",
+          "energy transfer",
+          "duelist's trance",
+          "assassin's blade",
+          "en garde"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "ten paces",
@@ -55859,6 +56181,98 @@
       "controller": false
     },
     {
+      "name": "watchful eye",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "extended mag",
+          "overflow",
+          "jolting feedback"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "chambered compensator",
+          "appended mag",
+          "armor-piercing rounds",
+          "field prep",
+          "eddy current",
+          "rolling storm",
+          "killing tally"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "stability"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "dynamic sway reduction",
+          "killing tally"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "hip-fire grip",
+          "target lock",
+          "sword logic"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "watchful eye",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "extended mag",
+          "overflow",
+          "jolting feedback"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "chambered compensator",
+          "appended mag",
+          "armor-piercing rounds",
+          "field prep",
+          "eddy current",
+          "rolling storm",
+          "killing tally"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "stability"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "dynamic sway reduction",
+          "killing tally"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "hip-fire grip",
+          "target lock",
+          "sword logic"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "wendigo gl3",
       "sheet": "perkbench",
       "pve": {
@@ -56034,27 +56448,27 @@
     },
     {
       "name": "whispering slab",
-      "sheet": "arrivals - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "handling"
+          "draw time"
         ],
         "greatPerks": [
-          "polymer string",
-          "compact arrow shaft",
+          "elastic string",
+          "fiberglass arrow shaft",
           "archer's tempo",
-          "sympathetic arsenal"
+          "vorpal weapon"
         ],
         "goodPerks": [
-          "natural string",
-          "agile bowstring",
+          "polymer string",
+          "flexible string",
           "straight fletching",
-          "fiberglass arrow shaft",
-          "quickdraw",
-          "killing wind",
-          "swashbuckler",
+          "helical fletching",
+          "pugilist",
           "demolitionist",
-          "vorpal weapon"
+          "swashbuckler",
+          "adrenaline junkie",
+          "high ground"
         ]
       },
       "pvp": {
@@ -56064,72 +56478,69 @@
         "greatPerks": [
           "elastic string",
           "fiberglass arrow shaft",
-          "archer's tempo",
+          "lone wolf",
           "opening shot"
         ],
         "goodPerks": [
-          "flexible string",
           "polymer string",
+          "flexible string",
           "straight fletching",
           "helical fletching",
-          "firmly planted",
-          "killing wind",
-          "vorpal weapon",
-          "swashbuckler",
-          "demolitionist"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "whispering slab",
-      "sheet": "arrivals - mnk",
-      "pve": {
-        "masterwork": [
-          "handling"
-        ],
-        "greatPerks": [
-          "polymer string",
-          "compact arrow shaft",
           "archer's tempo",
-          "sympathetic arsenal"
-        ],
-        "goodPerks": [
-          "natural string",
-          "agile bowstring",
-          "straight fletching",
-          "fiberglass arrow shaft",
-          "quickdraw",
-          "killing wind",
-          "swashbuckler",
-          "demolitionist",
-          "vorpal weapon"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "draw time"
-        ],
-        "greatPerks": [
-          "elastic string",
-          "fiberglass arrow shaft",
-          "archer's tempo",
-          "opening shot"
-        ],
-        "goodPerks": [
-          "flexible string",
-          "polymer string",
-          "straight fletching",
-          "helical fletching",
-          "firmly planted",
-          "killing wind",
-          "unrelenting",
-          "vorpal weapon"
+          "high ground",
+          "gutshot straight"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "whispering slab",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "archer's tempo",
+          "vorpal weapon"
+        ],
+        "goodPerks": [
+          "polymer string",
+          "flexible string",
+          "straight fletching",
+          "helical fletching",
+          "pugilist",
+          "demolitionist",
+          "swashbuckler",
+          "adrenaline junkie",
+          "high ground"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "lone wolf",
+          "opening shot"
+        ],
+        "goodPerks": [
+          "polymer string",
+          "flexible string",
+          "straight fletching",
+          "helical fletching",
+          "archer's tempo",
+          "high ground",
+          "gutshot straight"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "whistler's whim",
