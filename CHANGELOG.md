@@ -1,6 +1,15 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Hersey Act 2, 3 Weapon Breakdown (pandapaxxy)
+
+Added
+* Afterlight (Void Fusion Rifle)
+* Anamnesis (Void Combat Bow)
+* Division (Arc Sidearm)
+* Mirror Imago (Strand Submachine Gun)
+* Refusal of the Call (Strand Glaive)
+
 Hersey Act 1 Weapon Breakdown (pandapaxxy)
 
 Replaced

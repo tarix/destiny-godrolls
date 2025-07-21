@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:04.825Z",
+  "date": "2025-07-21T19:17:05.446Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -1499,6 +1499,100 @@
       "controller": false
     },
     {
+      "name": "afterlight",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accelerated coils",
+          "grave robber",
+          "reservoir burst"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "enhanced battery",
+          "ionized battery",
+          "lead from gold",
+          "discord",
+          "destabilizing rounds",
+          "cornered"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accelerated coils",
+          "under pressure",
+          "adagio"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "fluted barrel",
+          "projection fuse",
+          "offhand strike",
+          "pugilist",
+          "successful warm-up",
+          "swashbuckler"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "afterlight",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accelerated coils",
+          "grave robber",
+          "reservoir burst"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "enhanced battery",
+          "ionized battery",
+          "lead from gold",
+          "discord",
+          "destabilizing rounds",
+          "cornered"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accelerated coils",
+          "under pressure",
+          "adagio"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "fluted barrel",
+          "projection fuse",
+          "offhand strike",
+          "pugilist",
+          "successful warm-up",
+          "swashbuckler"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "age-old bond",
       "sheet": "outlaw",
       "pve": {
@@ -2085,6 +2179,102 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "anamnesis",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "archer's tempo",
+          "destabilizing rounds"
+        ],
+        "goodPerks": [
+          "flexible string",
+          "polymer string",
+          "straight fletching",
+          "helical fletching",
+          "dragonfly",
+          "repulsor brace",
+          "demoralize",
+          "sword logic"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "archer's tempo",
+          "impulse amplifier"
+        ],
+        "goodPerks": [
+          "flexible string",
+          "polymer string",
+          "straight fletching",
+          "helical fletching",
+          "hip-fire grip",
+          "to the pain",
+          "sword logic",
+          "explosive head"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "anamnesis",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "archer's tempo",
+          "destabilizing rounds"
+        ],
+        "goodPerks": [
+          "flexible string",
+          "polymer string",
+          "straight fletching",
+          "helical fletching",
+          "dragonfly",
+          "repulsor brace",
+          "demoralize",
+          "sword logic"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "archer's tempo",
+          "impulse amplifier"
+        ],
+        "goodPerks": [
+          "flexible string",
+          "polymer string",
+          "straight fletching",
+          "helical fletching",
+          "hip-fire grip",
+          "to the pain",
+          "sword logic",
+          "explosive head"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "ancient gospel",
@@ -12827,6 +13017,98 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "division",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "appended mag",
+          "eddy current",
+          "voltshot"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "tactical mag",
+          "flared magwell",
+          "pugilist",
+          "grave robber",
+          "sword logic",
+          "surrounded"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "to the pain",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "hip-fire grip",
+          "encore",
+          "sword logic",
+          "offhand strike"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "division",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "appended mag",
+          "eddy current",
+          "voltshot"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "tactical mag",
+          "flared magwell",
+          "pugilist",
+          "grave robber",
+          "sword logic",
+          "surrounded"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "to the pain",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "hip-fire grip",
+          "encore",
+          "sword logic",
+          "offhand strike"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "does not compute",
@@ -29984,6 +30266,98 @@
       "controller": false
     },
     {
+      "name": "mirror imago",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "subsistence",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "grave robber",
+          "overflow",
+          "target lock",
+          "sword logic"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "to the pain",
+          "sword logic"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "moving target",
+          "overflow",
+          "offhand strike",
+          "unrelenting"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "mirror imago",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "subsistence",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "grave robber",
+          "overflow",
+          "target lock",
+          "sword logic"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "to the pain",
+          "sword logic"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "moving target",
+          "overflow",
+          "offhand strike",
+          "unrelenting"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "misfit",
       "sheet": "forsaken",
       "pve": {
@@ -38524,6 +38898,100 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "refusal of the call",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "shield duration"
+        ],
+        "greatPerks": [
+          "auxiliary reserves",
+          "appended mag",
+          "impulse amplifier",
+          "sword logic"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "swap mag",
+          "light mag",
+          "slice",
+          "discord",
+          "disruption break",
+          "unstoppable force"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "shield duration"
+        ],
+        "greatPerks": [
+          "auxiliary reserves",
+          "accurized rounds",
+          "impulse amplifier",
+          "sword logic"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "swap mag",
+          "light mag",
+          "slice",
+          "tilting at windmills",
+          "unstoppable force",
+          "melee momentum"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "refusal of the call",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "shield duration"
+        ],
+        "greatPerks": [
+          "auxiliary reserves",
+          "appended mag",
+          "impulse amplifier",
+          "sword logic"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "swap mag",
+          "light mag",
+          "slice",
+          "discord",
+          "disruption break",
+          "unstoppable force"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "shield duration"
+        ],
+        "greatPerks": [
+          "auxiliary reserves",
+          "accurized rounds",
+          "impulse amplifier",
+          "sword logic"
+        ],
+        "goodPerks": [
+          "supercooled accelerator",
+          "swap mag",
+          "light mag",
+          "slice",
+          "tilting at windmills",
+          "unstoppabke force",
+          "melee momentum"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "regnant",
