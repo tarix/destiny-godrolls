@@ -1,6 +1,16 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Edge of Fate - Kepler - Season 27 (SpaceMonkey) [2025-07-15]
+
+Added
+* Agape (Solar Hand Cannon)
+* Giver's Blessing (Kinetic Auto Rifle)
+* Last Thursday (Strand Pulse Rifle)
+* Precipial (Void Shotgun)
+* Sublimation (Arc Scout Rifle)
+* Ulterior Observation (Stasis Machine Gun)
+
 Edge of Fate - Campaign and Activities - Season 27 (SpaceMonkey) [2025-07-15]
 
 Added

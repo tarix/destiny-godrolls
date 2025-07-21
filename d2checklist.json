@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:11.075Z",
+  "date": "2025-07-21T19:17:11.709Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -1676,6 +1676,55 @@
         ]
       },
       "mnk": false,
+      "controller": true
+    },
+    {
+      "name": "agape",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "armor-piercing rounds",
+          "flared magwell",
+          "heal clip",
+          "burning ambition",
+          "incandescent"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "arrowhead brake",
+          "light mag",
+          "rewind rounds",
+          "precision instrument"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "stability",
+          "handling"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "snapshot sights",
+          "moving target",
+          "precision instrument",
+          "master of arms"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "arrowhead brake",
+          "high-caliber rounds",
+          "armor-piercing rounds",
+          "light mag",
+          "encore"
+        ]
+      },
+      "mnk": true,
       "controller": true
     },
     {
@@ -20488,6 +20537,37 @@
       "controller": false
     },
     {
+      "name": "giver's blessing",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "hammer-forged rifling",
+          "flared magwell",
+          "shoot to loot",
+          "kinetic tremors"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "arrowhead brake",
+          "light mag",
+          "impromptu ammunition"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
+    },
+    {
       "name": "glacioclasm",
       "sheet": "hunt - controller",
       "pve": {
@@ -27764,6 +27844,38 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "last thursday",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "stability"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "moving target",
+          "headseeker"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "arrowhead brake",
+          "high-caliber rounds",
+          "armor-piercing rounds",
+          "light mag",
+          "rapid hit",
+          "slice"
+        ]
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "legal action ii",
@@ -37146,6 +37258,33 @@
       "controller": false
     },
     {
+      "name": "precipial",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "barrel shroud",
+          "accurized rounds",
+          "threat detector",
+          "opening shot"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "light mag",
+          "lone wolf"
+        ]
+      },
+      "mnk": true,
+      "controller": true
+    },
+    {
       "name": "premonition",
       "sheet": "chosen - controller",
       "pve": {
@@ -46278,6 +46417,34 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "sublimation",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [
+          "stability",
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accurized rounds",
+          "moving target",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "arrowhead brake",
+          "corkscrew rifling",
+          "steady rounds"
+        ]
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "submission",
@@ -55541,6 +55708,30 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "ulterior observation",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "tactical mag",
+          "demolitionist",
+          "killing tally"
+        ],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "under your skin",
