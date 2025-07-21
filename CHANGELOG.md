@@ -1,6 +1,14 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Rite of the Nine (Week 3) Weapon Breakdown (warlockmaggie)
+
+Replaced
+* Cold Comfort (Stasis Rocket Launcher)
+* Greasy Luck (Solar Glaive)
+* New Pacific Epitaph (Stasis Grenade Launcher)
+* No Survivors (Solar Submachine Gun)
+
 Rite of the Nine (Week 1) Weapon Breakdown (warlockmaggie)
 
 Replaced

@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:09.183Z",
+  "date": "2025-07-21T19:17:09.807Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -9425,87 +9425,101 @@
     },
     {
       "name": "cold comfort",
-      "sheet": "perkbench",
+      "sheet": "warlockmaggie",
       "pve": {
         "masterwork": [
-          "velocity"
+          "velocity",
+          "reload speed"
         ],
         "greatPerks": [
           "quick launch",
           "impact casing",
-          "envious assassin",
-          "explosive light"
+          "envious arsenal",
+          "bait and switch"
         ],
         "goodPerks": [
-          "linear compensator",
+          "hard launch",
           "smart drift control",
-          "tracking module",
+          "implosion rounds",
+          "high-velocity rounds",
           "impulse amplifier",
-          "bait and switch",
-          "chill clip"
+          "reconstruction",
+          "elemental honing",
+          "explosive light"
         ]
       },
       "pvp": {
         "masterwork": [
-          "velocity"
+          "blast radius",
+          "handling"
         ],
         "greatPerks": [
           "quick launch",
           "high-velocity rounds",
-          "perpetual motion",
-          "cluster bomb"
-        ],
-        "goodPerks": [
-          "smart drift control",
-          "linear compensator",
-          "tracking module",
-          "explosive light"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "cold comfort",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "velocity"
-        ],
-        "greatPerks": [
-          "quick launch",
-          "impact casing",
-          "envious assassin",
-          "explosive light"
-        ],
-        "goodPerks": [
-          "linear compensator",
-          "smart drift control",
-          "tracking module",
           "impulse amplifier",
-          "bait and switch",
-          "chill clip"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "velocity"
-        ],
-        "greatPerks": [
-          "quick launch",
-          "high-velocity rounds",
-          "perpetual motion",
-          "cluster bomb"
+          "explosive light"
         ],
         "goodPerks": [
-          "smart drift control",
+          "countermass",
           "linear compensator",
+          "black powder",
           "tracking module",
-          "explosive light"
+          "perpetual motion",
+          "sword logic",
+          "chill clip"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "cold comfort",
+      "sheet": "warlockmaggie",
+      "pve": {
+        "masterwork": [
+          "velocity",
+          "reload speed"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "impact casing",
+          "envious arsenal",
+          "bait and switch"
+        ],
+        "goodPerks": [
+          "hard launch",
+          "smart drift control",
+          "implosion rounds",
+          "high-velocity rounds",
+          "impulse amplifier",
+          "reconstruction",
+          "elemental honing",
+          "explosive light"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius",
+          "handling"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "impulse amplifier",
+          "explosive light"
+        ],
+        "goodPerks": [
+          "countermass",
+          "linear compensator",
+          "black powder",
+          "tracking module",
+          "perpetual motion",
+          "sword logic",
+          "chill clip"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "cold denial",
@@ -20898,95 +20912,103 @@
     },
     {
       "name": "greasy luck",
-      "sheet": "perkbench",
+      "sheet": "warlockmaggie",
       "pve": {
-        "masterwork": [
-          "shield duration"
-        ],
-        "greatPerks": [
-          "supercooled accelerator",
-          "appended mag",
-          "lead from gold",
-          "incandescent"
-        ],
-        "goodPerks": [
-          "auxiliary reserves",
-          "swap mag",
-          "light mag",
-          "disruption break",
-          "replenishing aegis",
-          "collective action",
-          "redirection"
-        ]
-      },
-      "pvp": {
         "masterwork": [
           "shield duration",
           "range"
         ],
         "greatPerks": [
-          "supercooled accelerator",
-          "accurized rounds",
-          "impulse amplifier",
-          "opening shot"
-        ],
-        "goodPerks": [
-          "auxiliary reserves",
-          "swap mag",
-          "light mag",
-          "disruption break",
-          "immovable object",
-          "unstoppable force"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "greasy luck",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "shield duration"
-        ],
-        "greatPerks": [
-          "supercooled accelerator",
+          "low-impedance windings",
           "appended mag",
-          "lead from gold",
-          "incandescent"
+          "replenishing aegis",
+          "close to melee"
         ],
         "goodPerks": [
           "auxiliary reserves",
-          "swap mag",
+          "supercooled accelerator",
           "light mag",
-          "disruption break",
-          "replenishing aegis",
-          "collective action",
+          "swap mag",
+          "heal clip",
+          "reconstruction",
+          "incandescent",
           "redirection"
         ]
       },
       "pvp": {
         "masterwork": [
-          "shield duration",
-          "range"
+          "handling",
+          "shield duration"
         ],
         "greatPerks": [
-          "supercooled accelerator",
-          "accurized rounds",
-          "impulse amplifier",
-          "opening shot"
+          "tempered truss rod",
+          "swap mag",
+          "melee momentum",
+          "close to melee"
         ],
         "goodPerks": [
           "auxiliary reserves",
-          "swap mag",
+          "lightweight emitter",
           "light mag",
-          "disruption break",
-          "immovable object",
-          "unstoppable force"
+          "accurized rounds",
+          "replenishing aegis",
+          "lead from gold",
+          "unstoppable force",
+          "sword logic"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "greasy luck",
+      "sheet": "warlockmaggie",
+      "pve": {
+        "masterwork": [
+          "shield duration",
+          "range"
+        ],
+        "greatPerks": [
+          "low-impedance windings",
+          "appended mag",
+          "replenishing aegis",
+          "close to melee"
+        ],
+        "goodPerks": [
+          "auxiliary reserves",
+          "supercooled accelerator",
+          "light mag",
+          "swap mag",
+          "heal clip",
+          "reconstruction",
+          "incandescent",
+          "redirection"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling",
+          "shield duration"
+        ],
+        "greatPerks": [
+          "tempered truss rod",
+          "swap mag",
+          "melee momentum",
+          "close to melee"
+        ],
+        "goodPerks": [
+          "auxiliary reserves",
+          "lightweight emitter",
+          "light mag",
+          "accurized rounds",
+          "replenishing aegis",
+          "lead from gold",
+          "unstoppable force",
+          "sword logic"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "gridskipper",
@@ -32223,89 +32245,95 @@
     },
     {
       "name": "new pacific epitaph",
-      "sheet": "perkbench",
+      "sheet": "warlockmaggie",
       "pve": {
         "masterwork": [
-          "velocity"
+          "velocity",
+          "reload speed"
         ],
         "greatPerks": [
-          "quick launch",
+          "linear compensator",
           "high-velocity rounds",
-          "lead from gold",
-          "collective action"
+          "unrelenting",
+          "chain reaction"
         ],
         "goodPerks": [
+          "quick launch",
           "smart drift control",
-          "linear compensator",
+          "lead from gold",
           "demolitionist",
-          "unrelenting",
           "redirection",
-          "kill clip"
+          "elemental honing"
         ]
       },
       "pvp": {
         "masterwork": [
-          "velocity"
+          "velocity",
+          "handling"
         ],
         "greatPerks": [
-          "quick launch",
-          "high-velocity rounds",
-          "perpetual motion",
-          "adrenaline junkie"
-        ],
-        "goodPerks": [
-          "smart drift control",
           "linear compensator",
-          "demolitionist",
-          "kill clip",
-          "harmony"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "new pacific epitaph",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "velocity"
-        ],
-        "greatPerks": [
-          "quick launch",
           "high-velocity rounds",
-          "lead from gold",
-          "collective action"
-        ],
-        "goodPerks": [
-          "smart drift control",
-          "linear compensator",
           "demolitionist",
-          "unrelenting",
-          "redirection",
           "kill clip"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "velocity"
-        ],
-        "greatPerks": [
-          "quick launch",
-          "high-velocity rounds",
-          "perpetual motion",
-          "adrenaline junkie"
         ],
         "goodPerks": [
+          "quick launch",
           "smart drift control",
-          "linear compensator",
-          "demolitionist",
-          "kill clip",
-          "harmony"
+          "lead from gold",
+          "unrelenting",
+          "sword logic",
+          "adrenaline junkie"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "new pacific epitaph",
+      "sheet": "warlockmaggie",
+      "pve": {
+        "masterwork": [
+          "velocity",
+          "reload speed"
+        ],
+        "greatPerks": [
+          "linear compensator",
+          "high-velocity rounds",
+          "unrelenting",
+          "chain reaction"
+        ],
+        "goodPerks": [
+          "quick launch",
+          "smart drift control",
+          "lead from gold",
+          "demolitionist",
+          "redirection",
+          "elemental honing"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "velocity",
+          "handling"
+        ],
+        "greatPerks": [
+          "linear compensator",
+          "high-velocity rounds",
+          "demolitionist",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "quick launch",
+          "smart drift control",
+          "lead from gold",
+          "unrelenting",
+          "sword logic",
+          "adrenaline junkie"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "new purpose",
@@ -33031,94 +33059,103 @@
     },
     {
       "name": "no survivors",
-      "sheet": "perkbench",
+      "sheet": "warlockmaggie",
       "pve": {
         "masterwork": [
-          "stability"
+          "stability",
+          "reload speed"
         ],
         "greatPerks": [
           "smallbore",
-          "appended mag",
-          "demolitionist",
-          "target lock"
+          "flared magwell",
+          "heal clip",
+          "incandescent"
         ],
         "goodPerks": [
-          "corkscrew rifling",
           "fluted barrel",
-          "flared magwell",
-          "armor-piercing rounds",
-          "surplus",
-          "discord",
-          "incandescent"
+          "corkscrew rifling",
+          "ricochet rounds",
+          "appended mag",
+          "rewind rounds",
+          "demolitionist",
+          "sword logic",
+          "adrenaline junkie"
         ]
       },
       "pvp": {
         "masterwork": [
+          "stability",
           "range"
         ],
         "greatPerks": [
+          "smallbore",
           "ricochet rounds",
           "rangefinder",
-          "target lock",
-          "hammer-forged rifling"
-        ],
-        "goodPerks": [
-          "high-caliber rounds",
-          "well-rounded",
-          "demolitionist",
-          "collective action",
-          "elemental capacitor",
-          "smallbore"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "no survivors",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "smallbore",
-          "appended mag",
-          "demolitionist",
           "target lock"
         ],
         "goodPerks": [
           "corkscrew rifling",
-          "fluted barrel",
-          "flared magwell",
-          "armor-piercing rounds",
-          "surplus",
-          "discord",
-          "incandescent"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "smallbore",
-          "ricochet rounds",
-          "rangefinder",
-          "target lock"
-        ],
-        "goodPerks": [
           "hammer-forged rifling",
-          "corkscrew rifling",
+          "flared magwell",
           "high-caliber rounds",
-          "well-rounded",
+          "surplus",
           "demolitionist",
-          "collective action",
-          "elemental capacitor"
+          "master of arms",
+          "adrenaline junkie"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "no survivors",
+      "sheet": "warlockmaggie",
+      "pve": {
+        "masterwork": [
+          "stability",
+          "reload speed"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "flared magwell",
+          "heal clip",
+          "incandescent"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "ricochet rounds",
+          "appended mag",
+          "rewind rounds",
+          "demolitionist",
+          "sword logic",
+          "adrenaline junkie"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability",
+          "range"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "ricochet rounds",
+          "rangefinder",
+          "target lock"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "hammer-forged rifling",
+          "flared magwell",
+          "high-caliber rounds",
+          "surplus",
+          "demolitionist",
+          "master of arms",
+          "adrenaline junkie"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "non-denouement",
