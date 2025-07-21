@@ -1,6 +1,15 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Hersey Vendor Weapon Breakdown (pandapaxxy)
+
+Added
+* Backfang (Arc Glaive)
+* Cynosure (Strand Rocket Launcher)
+* Joxer's Longsword (Void Pulse Rifle)
+* Redrix's Estoc (Stasis Pulse Rifle)
+* Resounding (Strand Fusion Rifle)
+
 The Final Shape Iron Banner and Trials of Osiris Weapon Breakdown (pandapaxxy)
 
 Replaced
