@@ -1,6 +1,25 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Edge of Fate - Random Rolls - Season 27 (SpaceMonkey) [2025-07-15]
+
+Replaced
+* Aisha's Embrace (Void Scout Rifle)
+* Forgiveness (Arc Sidearm)
+* Outrageous Fortune (Solar Drum Grenade Launcher)
+* Pre Astyanax IV (Solar Bow)
+* Stars in Shadow (Solar Pulse Rifle)
+* Unwavering Duty (Solar Machine Gun)
+Added
+* Aureus Neutralizer (Kinetic Hand Cannon)
+* Auric Disabler (Strand Auto Rifle)
+* Lionfish-4fr (Stasis Fusion Rifle)
+* Mint Retrograde (Strand Pulse Rifle)
+* Pure Recollection (Void Shotgun)
+* Returned Memory (Solar Sidearm)
+* Solemn Remembrance (Stasis Pulse Rifle)
+* Theodolite (Arc Breech-Loaded Grenade Launcher)
+
 Edge of Fate - Kepler - Season 27 (SpaceMonkey) [2025-07-15]
 
 Added
