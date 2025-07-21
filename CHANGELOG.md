@@ -1,6 +1,14 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Rite of the Nine (Week 6) Weapon Breakdown (warlockmaggie)
+
+Replaced
+* A Sudden Death (Void Shotgun)
+* Judgment (Stasis Hand Cannon)
+* Prosecutor (Arc Auto Rifle)
+* Relentless (Strand Pulse Rifle)
+
 Rite of the Nine (Week 3) Weapon Breakdown (warlockmaggie)
 
 Replaced
