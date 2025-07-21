@@ -1,6 +1,16 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Vault of Glass Weapon Refresh Breakdown (pandapaxxy)
+
+Replaced
+* Corrective Measure (Void Machine Gun)
+* Fatebringer (Kinetic Hand Cannon)
+* Found Verdict (Arc Shotgun)
+* Hezen Vengeance (Solar Rocket Launcher)
+* Praedyth's Revenge (Kinetic Sniper Rifle)
+* Vision of Confluence (Solar Scout Rifle)
+
 Sundered Doctrine Weapon Breakdown (pandapaxxy)
 
 Added

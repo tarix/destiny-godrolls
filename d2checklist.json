@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:06.690Z",
+  "date": "2025-07-21T19:17:07.309Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -10366,98 +10366,89 @@
     },
     {
       "name": "corrective measure",
-      "sheet": "splicer - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
         ],
         "greatPerks": [
-          "fluted barrel",
+          "arrowhead brake",
           "appended mag",
-          "subsistence",
-          "one for all"
-        ],
-        "goodPerks": [
-          "polygonal rifling",
-          "smallbore",
-          "tactical mag",
-          "extended mag",
           "rewind rounds",
-          "demolitionist",
-          "feeding frenzy",
-          "firefly",
-          "high-impact reserves"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "steady rounds",
-          "dynamic sway reduction",
-          "tap the trigger"
+          "withering gaze"
         ],
         "goodPerks": [
-          "polygonal rifling",
-          "smallbore",
-          "accurized rounds",
-          "tactical mag",
-          "surplus",
-          "high-impact reserves"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "corrective measure",
-      "sheet": "splicer - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
           "fluted barrel",
-          "appended mag",
-          "subsistence",
-          "one for all"
-        ],
-        "goodPerks": [
           "corkscrew rifling",
-          "smallbore",
+          "flared magwell",
           "tactical mag",
-          "extended mag",
-          "rewind rounds",
-          "demolitionist",
-          "feeding frenzy",
-          "firefly",
-          "high-impact reserves"
+          "subsistence",
+          "destabilizing rounds",
+          "killing tally"
         ]
       },
       "pvp": {
         "masterwork": [
-          "range",
-          "stability"
+          "range"
         ],
         "greatPerks": [
           "hammer-forged rifling",
           "accurized rounds",
           "dynamic sway reduction",
-          "tap the trigger"
+          "high-impact reserves"
         ],
         "goodPerks": [
           "smallbore",
-          "corkscrew rifling",
-          "steady rounds",
-          "tactical mag",
-          "surplus",
-          "high-impact reserves"
+          "firefly",
+          "destabilizing rounds",
+          "killing tally"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "corrective measure",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rewind rounds",
+          "withering gaze"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "flared magwell",
+          "tactical mag",
+          "subsistence",
+          "destabilizing rounds",
+          "killing tally"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "accurized rounds",
+          "dynamic sway reduction",
+          "high-impact reserves"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "firefly",
+          "destabilizing rounds",
+          "killing tally"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "corsair's wrath",
@@ -17747,72 +17738,26 @@
     },
     {
       "name": "fatebringer",
-      "sheet": "splicer - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "reload speed"
+          "handling"
         ],
         "greatPerks": [
           "fluted barrel",
-          "tactical mag",
-          "explosive payload",
+          "appended mag",
+          "rewind rounds",
           "frenzy"
         ],
         "goodPerks": [
           "corkscrew rifling",
           "smallbore",
-          "appended mag",
-          "extended mag",
-          "rewind rounds",
-          "firefly",
-          "kill clip"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "stability"
-        ],
-        "greatPerks": [
-          "smallbore",
-          "accurized rounds",
-          "explosive payload",
-          "opening shot"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "fluted barrel",
-          "steady rounds",
           "tactical mag",
-          "killing wind",
-          "tunnel vision",
-          "eye of the storm",
-          "kill clip"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "fatebringer",
-      "sheet": "splicer - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "tactical mag",
+          "flared magwell",
+          "kinetic tremors",
           "explosive payload",
-          "frenzy"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "appended mag",
-          "extended mag",
-          "rewind rounds",
           "firefly",
-          "kill clip"
+          "magnificent howl"
         ]
       },
       "pvp": {
@@ -17822,22 +17767,66 @@
         "greatPerks": [
           "hammer-forged rifling",
           "accurized rounds",
-          "explosive payload",
-          "opening shot"
+          "opening shot",
+          "eye of the storm"
         ],
         "goodPerks": [
-          "corkscrew rifling",
           "smallbore",
-          "tactical mag",
-          "tunnel vision",
-          "killing wind",
-          "eye of the storm",
-          "kill clip",
+          "fluted barrel",
+          "keep away",
+          "explosive payload",
+          "magnificent howl",
           "firefly"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "fatebringer",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "rewind rounds",
+          "frenzy"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "kinetic tremors",
+          "explosive payload",
+          "firefly",
+          "magnificent howl"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "opening shot",
+          "eye of the storm"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "fluted barrel",
+          "keep away",
+          "explosive payload",
+          "magnificent howl",
+          "firefly"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "father's sins",
@@ -19077,7 +19066,7 @@
     },
     {
       "name": "found verdict",
-      "sheet": "splicer - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
@@ -19085,92 +19074,81 @@
         "greatPerks": [
           "barrel shroud",
           "assault mag",
-          "auto-loading holster",
+          "rewind rounds",
           "one-two punch"
         ],
         "goodPerks": [
           "corkscrew rifling",
-          "smallbore",
-          "tactical mag",
           "appended mag",
-          "rewind rounds",
-          "slideshot",
-          "vorpal weapon",
-          "frenzy"
+          "tactical mag",
+          "pugilist",
+          "discord",
+          "trench barrel",
+          "voltshot"
         ]
       },
       "pvp": {
         "masterwork": [
-          "range",
-          "handling"
-        ],
-        "greatPerks": [
-          "full choke",
-          "accurized rounds",
-          "slideshot",
-          "opening shot"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "rifled barrel",
-          "assault mag",
-          "surplus",
-          "full auto trigger system",
-          "killing wind",
-          "vorpal weapon"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "found verdict",
-      "sheet": "splicer - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
+          "range"
         ],
         "greatPerks": [
           "barrel shroud",
-          "assault mag",
-          "auto-loading holster",
-          "one-two punch"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "tactical mag",
-          "appended mag",
-          "rewind rounds",
-          "slideshot",
-          "vorpal weapon",
-          "frenzy"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range",
-          "handling"
-        ],
-        "greatPerks": [
-          "full choke",
           "accurized rounds",
-          "slideshot",
+          "threat detector",
           "opening shot"
         ],
         "goodPerks": [
-          "corkscrew rifling",
           "smallbore",
-          "rifled barrel",
+          "corkscrew rifling",
           "assault mag",
-          "surplus",
-          "full auto trigger system",
-          "killing wind",
-          "vorpal weapon"
+          "slideshot"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "found verdict",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "barrel shroud",
+          "assault mag",
+          "rewind rounds",
+          "one-two punch"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "appended mag",
+          "tactical mag",
+          "pugilist",
+          "discord",
+          "trench barrel",
+          "voltshot"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "barrel shroud",
+          "accurized rounds",
+          "threat detector",
+          "opening shot"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "assault mag",
+          "slideshot"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "fractethyst",
@@ -22415,25 +22393,25 @@
     },
     {
       "name": "hezen vengeance",
-      "sheet": "splicer - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "reload speed"
+          "blast radius"
         ],
         "greatPerks": [
           "quick launch",
           "impact casing",
           "overflow",
-          "lasting impression"
+          "explosive light"
         ],
         "goodPerks": [
           "smart drift control",
-          "countermass",
+          "linear compensator",
           "alloy casing",
           "auto-loading holster",
-          "impulse amplifier",
+          "incandescent",
           "vorpal weapon",
-          "cluster bomb"
+          "bait and switch"
         ]
       },
       "pvp": {
@@ -22441,65 +22419,65 @@
           "blast radius"
         ],
         "greatPerks": [
-          "volatile launch",
-          "impact casing",
-          "tracking module",
-          "cluster bomb"
-        ],
-        "goodPerks": [
-          "confined launch",
-          "linear compensator",
-          "black powder",
-          "quickdraw",
-          "impulse amplifier"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "hezen vengeance",
-      "sheet": "splicer - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
           "quick launch",
-          "impact casing",
-          "overflow",
-          "lasting impression"
+          "high-velocity rounds",
+          "impulse amplifier",
+          "explosive light"
         ],
         "goodPerks": [
           "smart drift control",
-          "countermass",
-          "alloy casing",
-          "auto-loading holster",
-          "impulse amplifier",
-          "vorpal weapon",
-          "cluster bomb"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "blast radius"
-        ],
-        "greatPerks": [
-          "volatile launch",
-          "impact casing",
-          "tracking module",
-          "cluster bomb"
-        ],
-        "goodPerks": [
-          "confined launch",
           "linear compensator",
-          "black powder",
-          "quickdraw",
-          "impulse amplifier"
+          "cluster bomb",
+          "incandescent",
+          "vorpal weapon"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "hezen vengeance",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "impact casing",
+          "overflow",
+          "explosive light"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "alloy casing",
+          "auto-loading holster",
+          "incandescent",
+          "vorpal weapon",
+          "bait and switch"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "impulse amplifier",
+          "explosive light"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "cluster bomb",
+          "incandescent",
+          "vorpal weapon"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "high albedo",
@@ -36226,23 +36204,26 @@
     },
     {
       "name": "praedyth's revenge",
-      "sheet": "splicer - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
         ],
         "greatPerks": [
-          "fluted barrel",
-          "tactical mag",
-          "rewind rounds",
+          "arrowhead brake",
+          "appended mag",
+          "fourth time's the charm",
           "high-impact reserves"
         ],
         "goodPerks": [
-          "arrowhead brake",
+          "fluted barrel",
           "corkscrew rifling",
+          "tactical mag",
           "extended mag",
-          "feeding frenzy",
-          "frenzy"
+          "kinetic tremors",
+          "rewind rounds",
+          "frenzy",
+          "bait and switch"
         ]
       },
       "pvp": {
@@ -36252,59 +36233,64 @@
         "greatPerks": [
           "fluted barrel",
           "accurized rounds",
+          "kinetic tremors",
+          "opening shot"
+        ],
+        "goodPerks": [
+          "arrowhead brake",
+          "corkscrew rifling",
+          "discord",
           "no distractions",
-          "opening shot"
-        ],
-        "goodPerks": [
-          "arrowhead brake",
-          "corkscrew rifling",
-          "tactical mag",
-          "moving target"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "praedyth's revenge",
-      "sheet": "splicer - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "tactical mag",
-          "rewind rounds",
-          "high-impact reserves"
-        ],
-        "goodPerks": [
-          "arrowhead brake",
-          "corkscrew rifling",
-          "extended mag",
-          "feeding frenzy",
-          "frenzy"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "handling"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "accurized rounds",
-          "moving target",
-          "opening shot"
-        ],
-        "goodPerks": [
-          "arrowhead brake",
-          "corkscrew rifling",
-          "tactical mag",
-          "no distractions"
+          "firefly"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "praedyth's revenge",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "fourth time's the charm",
+          "high-impact reserves"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "tactical mag",
+          "extended mag",
+          "kinetic tremors",
+          "rewind rounds",
+          "frenzy",
+          "bait and switch"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accurized rounds",
+          "kinetic tremors",
+          "opening shot"
+        ],
+        "goodPerks": [
+          "arrowhead brake",
+          "corkscrew rifling",
+          "discord",
+          "no distractions",
+          "firefly"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "pre astyanax iv",
@@ -56262,99 +56248,92 @@
     },
     {
       "name": "vision of confluence",
-      "sheet": "perkbench",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "reload speed"
+          "handling"
         ],
         "greatPerks": [
-          "fluted barrel",
+          "arrowhead brake",
           "appended mag",
-          "wellspring",
+          "rewind rounds",
           "firefly"
         ],
         "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "extended mag",
+          "fluted barrel",
+          "tactical mag",
           "flared magwell",
-          "rewind rounds",
-          "surplus",
-          "frenzy",
-          "kill clip"
+          "heal clip",
+          "incandescent",
+          "explosive payload",
+          "frenzy"
         ]
       },
       "pvp": {
         "masterwork": [
-          "range",
-          "stability"
+          "handling"
         ],
         "greatPerks": [
           "fluted barrel",
-          "ricochet rounds",
+          "steady rounds",
           "zen moment",
           "kill clip"
         ],
         "goodPerks": [
           "corkscrew rifling",
-          "smallbore",
-          "polygonal rifling",
-          "high-caliber rounds",
-          "tunnel vision",
-          "surplus",
-          "killing wind"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "vision of confluence",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "appended mag",
-          "wellspring",
-          "firefly"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "extended mag",
           "flared magwell",
-          "rewind rounds",
-          "surplus",
-          "frenzy",
-          "kill clip"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range",
-          "stability"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "ricochet rounds",
-          "zen moment",
-          "kill clip"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "polygonal rifling",
-          "high-caliber rounds",
-          "tunnel vision",
-          "surplus",
-          "killing wind"
+          "heal clip",
+          "incandescent",
+          "explosive payload"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "vision of confluence",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rewind rounds",
+          "firefly"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "tactical mag",
+          "flared magwell",
+          "heal clip",
+          "incandescent",
+          "explosive payload",
+          "frenzy"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "steady rounds",
+          "zen moment",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "flared magwell",
+          "heal clip",
+          "incandescent",
+          "explosive payload"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "volta bracket",
