@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:10.441Z",
+  "date": "2025-07-21T19:17:11.075Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -1766,6 +1766,40 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "ahab char",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "range",
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "hammer-forged rifling",
+          "armor-piercing rounds",
+          "flared magwell",
+          "heal clip",
+          "burning ambition"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "light mag",
+          "ricochet rounds",
+          "high-caliber rounds",
+          "proximity power"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "aisha's care",
@@ -3542,6 +3576,30 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "aurora dawn",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster’s guard",
+          "rimestealer",
+          "flash counter",
+          "cold steel"
+        ],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "aurvandil fr6",
@@ -6376,6 +6434,32 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "boomslang-4fr",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "charge time",
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "fluted barrel",
+          "corkscrew rifling",
+          "accelerated coils",
+          "envious arsenal",
+          "precision instrument"
+        ],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "boondoggle mk. 55",
@@ -18111,6 +18195,55 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "faustus decline",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "smallbore",
+          "flared magwell",
+          "rimestealer",
+          "headstone"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "light mag",
+          "demolitionist"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "handling"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "rangefinder",
+          "lone wolf",
+          "kill clip",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "fluted barrel",
+          "high-caliber rounds",
+          "armor-piercing rounds",
+          "light mag",
+          "killing wind",
+          "sword logic"
+        ]
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "fel taradiddle",
@@ -26558,6 +26691,29 @@
       "controller": false
     },
     {
+      "name": "jurisprudent",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "flared magwel",
+          "rimestealer",
+          "headstone"
+        ],
+        "goodPerks": []
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
+    },
+    {
       "name": "just in case",
       "sheet": "drifter",
       "pve": {
@@ -30626,6 +30782,33 @@
       "controller": false
     },
     {
+      "name": "mercury-a",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "draw time"
+        ],
+        "greatPerks": [
+          "elastic string",
+          "fiberglass arrow shaft",
+          "attrition orbs",
+          "kinetic tremors"
+        ],
+        "goodPerks": [
+          "polymer string",
+          "straight fletching",
+          "demolitionist"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
+    },
+    {
       "name": "midha's reckoning",
       "sheet": "perkbench",
       "pve": {
@@ -35575,6 +35758,39 @@
       "controller": false
     },
     {
+      "name": "phoneutria fera",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "flared magwell",
+          "proximity power",
+          "one-two punch"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "corkscrew rifling",
+          "arrowhead brake",
+          "smallbore",
+          "tactical mag",
+          "accurized rounds",
+          "appended mag",
+          "threat detector"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
+    },
+    {
       "name": "phyllotactic spiral",
       "sheet": "perkbench",
       "pve": {
@@ -38296,6 +38512,35 @@
       "controller": true
     },
     {
+      "name": "qua nilus ii",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "flared magwell",
+          "slice",
+          "hatchling"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "hammer-forged rifling",
+          "tactical mag",
+          "dragonfly"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
+    },
+    {
       "name": "qua xaphan v",
       "sheet": "perkbench",
       "pve": {
@@ -40587,6 +40832,32 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "ribbontail",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "light battery",
+          "proximity power",
+          "detonator beam"
+        ],
+        "goodPerks": [
+          "killing tally",
+          "redirection"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "right side of wrong",
@@ -43536,6 +43807,34 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "shoreline dissident",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "tactical mag",
+          "triple tap",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "arrowhead brake",
+          "corkscrew rifling",
+          "appended mag"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "show of force xf4865",
@@ -46974,6 +47273,31 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "synanceia",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "impact"
+        ],
+        "greatPerks": [
+          "jagged edge",
+          "swordmaster’s guard",
+          "relentless strikes",
+          "elemental honing"
+        ],
+        "goodPerks": [
+          "eager edge"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "synchronic roulette",
@@ -53743,6 +54067,40 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "trachinus",
+      "sheet": "SpaceMonkey",
+      "pve": {
+        "masterwork": [
+          "reload",
+          "range",
+          "handling"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "assault mag",
+          "lead from gold",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "corkscrew rifling",
+          "fluted barrel",
+          "tatical mag",
+          "appende mag",
+          "light mag",
+          "accurized rounds",
+          "rapid hit"
+        ]
+      },
+      "pvp": {
+        "masterwork": [],
+        "greatPerks": [],
+        "goodPerks": []
+      },
+      "mnk": true,
+      "controller": true
     },
     {
       "name": "trackless waste",

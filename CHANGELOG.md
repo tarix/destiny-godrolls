@@ -1,6 +1,22 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Edge of Fate - Campaign and Activities - Season 27 (SpaceMonkey) [2025-07-15]
+
+Added
+* Ahab Char (Solar Auto Rifle)
+* Aurora Dawn (Stasis Sword)
+* Boomslang-4fr (Arc Linear Fusion Rifle)
+* Faustus Decline (Stasis Sidearm)
+* Jurisprudent (Stasis Scout Rifle)
+* Mercury-A (Kinetic Bow)
+* Phoneutria Fera (Solar Hand Cannon)
+* Qua Nilus II (Strand Submachine Gun)
+* Ribbontail (Strand Trace Rifle)
+* Shoreline Dissident (Void Sniper Rifle)
+* Synanceia (Solar Sword)
+* Trachinus (Stasis Shotgun)
+
 Rite of the Nine (Week 6) Weapon Breakdown (warlockmaggie)
 
 Replaced
