@@ -1,6 +1,17 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Heresy Iron Banner, Nightfall, Trials of Osiris Weapon Breakdown (pandapaxxy)
+
+Replaced
+* Exalted Truth (Void Hand Cannon)
+* Peacebond (Stasis Sidearm)
+* The Palindrome (Arc Hand Cannon)
+Added
+* Keen Thistle (Solar Sniper Rifle)
+* Lotus-Eater (Void Sidearm)
+* Warlord's Spear (Arc Trace Rifle)
+
 Hersey Vendor Weapon Breakdown (pandapaxxy)
 
 Added

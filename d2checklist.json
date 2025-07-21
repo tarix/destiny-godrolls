@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:03.591Z",
+  "date": "2025-07-21T19:17:04.204Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -15585,7 +15585,7 @@
     },
     {
       "name": "exalted truth",
-      "sheet": "perkbench",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
@@ -15593,56 +15593,17 @@
         "greatPerks": [
           "fluted barrel",
           "appended mag",
-          "outlaw",
+          "withering gaze",
           "repulsor brace"
         ],
         "goodPerks": [
+          "corkscrew rifling",
           "smallbore",
           "tactical mag",
           "flared magwell",
-          "frenzy",
-          "multikill clip"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range"
-        ],
-        "greatPerks": [
-          "accurized rounds",
-          "rangefinder",
-          "eye of the storm",
-          "hammer-forged rifling"
-        ],
-        "goodPerks": [
-          "smallbore",
-          "slickdraw",
-          "killing wind",
-          "fluted barrel"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "exalted truth",
-      "sheet": "perkbench",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "appended mag",
-          "outlaw",
-          "repulsor brace"
-        ],
-        "goodPerks": [
-          "smallbore",
-          "tactical mag",
-          "flared magwell",
-          "frenzy",
-          "multikill clip"
+          "destabilizing rounds",
+          "demoralize",
+          "precision instrument"
         ]
       },
       "pvp": {
@@ -15652,17 +15613,65 @@
         "greatPerks": [
           "fluted barrel",
           "accurized rounds",
-          "rangefinder",
+          "keep away",
           "eye of the storm"
         ],
         "goodPerks": [
+          "hammer-forged rifling",
           "smallbore",
-          "slickdraw",
-          "killing wind"
+          "lone wolf",
+          "slideshot",
+          "opening shot",
+          "magnificent howl"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "exalted truth",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "withering gaze",
+          "repulsor brace"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "destabilizing rounds",
+          "demoralize",
+          "precision instrument"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accurized rounds",
+          "keep away",
+          "eye of the storm"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "lone wolf",
+          "slideshot",
+          "opening shot",
+          "magnificent howl"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "exile's curse",
@@ -25617,6 +25626,96 @@
       "controller": false
     },
     {
+      "name": "keen thistle",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "triple tap",
+          "vorpal weapon"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "tactical mag",
+          "extended mag",
+          "envious arsenal",
+          "bait and switch",
+          "fourth time's the charm"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accurized rounds",
+          "snapshot sights",
+          "closing time"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "lone wolf",
+          "slickdraw",
+          "opening shot",
+          "moving target"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "keen thistle",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "triple tap",
+          "vorpal weapon"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "tactical mag",
+          "extended mag",
+          "envious arsenal",
+          "bait and switch",
+          "fourth time's the charm"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accurized rounds",
+          "snapshot sights",
+          "closing time"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "lone wolf",
+          "slickdraw",
+          "opening shot",
+          "moving target"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "kept confidence",
       "sheet": "perkbench",
       "pve": {
@@ -27925,6 +28024,96 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "lotus-eater",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "velocity"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "appended mag",
+          "feeding frenzy",
+          "one for all"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "tactical mag",
+          "high-explosive ordnance",
+          "repulsor brace",
+          "reconstruction",
+          "destabilizing rounds",
+          "withering gaze"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "beacon rounds",
+          "high ground"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "reconstruction",
+          "withering gaze",
+          "adrenaline junkie"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "lotus-eater",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "velocity"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "appended mag",
+          "feeding frenzy",
+          "one for all"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "tactical mag",
+          "high-explosive ordnance",
+          "repulsor brace",
+          "reconstruction",
+          "destabilizing rounds",
+          "withering gaze"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "blast radius"
+        ],
+        "greatPerks": [
+          "quick launch",
+          "high-velocity rounds",
+          "beacon rounds",
+          "high ground"
+        ],
+        "goodPerks": [
+          "smart drift control",
+          "linear compensator",
+          "reconstruction",
+          "withering gaze",
+          "adrenaline junkie"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "loud lullaby",
@@ -33550,26 +33739,25 @@
     },
     {
       "name": "peacebond",
-      "sheet": "lost - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
           "reload speed"
         ],
         "greatPerks": [
           "fluted barrel",
-          "tactical mag",
-          "subsistence",
-          "demolitionist"
+          "appended mag",
+          "headstone",
+          "rimestealer"
         ],
         "goodPerks": [
-          "corkscrew rifling",
+          "hammer-forged rifling",
           "smallbore",
-          "appended mag",
-          "extended mag",
-          "killing wind",
-          "swashbuckler",
-          "surrounded",
-          "headstone"
+          "tactical mag",
+          "flared magwell",
+          "subsistence",
+          "frenzy",
+          "kill clip"
         ]
       },
       "pvp": {
@@ -33579,66 +33767,63 @@
         "greatPerks": [
           "hammer-forged rifling",
           "accurized rounds",
+          "zen moment",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "lone wolf",
           "rangefinder",
-          "harmony"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "tactical mag",
-          "killing wind",
-          "tunnel vision",
-          "swashbuckler"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "peacebond",
-      "sheet": "lost - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "tactical mag",
-          "subsistence",
-          "demolitionist"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "appended mag",
-          "extended mag",
-          "killing wind",
-          "swashbuckler",
-          "surrounded",
-          "headstone"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range"
-        ],
-        "greatPerks": [
-          "hammer-forged rifling",
-          "accurized rounds",
-          "rangefinder",
-          "harmony"
-        ],
-        "goodPerks": [
-          "corkscrew rifling",
-          "smallbore",
-          "tactical mag",
-          "killing wind",
-          "tunnel vision",
-          "swashbuckler"
+          "headseeker",
+          "desperate measures"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "peacebond",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "headstone",
+          "rimestealer"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "subsistence",
+          "frenzy",
+          "kill clip"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "accurized rounds",
+          "zen moment",
+          "kill clip"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "lone wolf",
+          "rangefinder",
+          "headseeker",
+          "desperate measures"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "perfect paradox",
@@ -48942,25 +49127,25 @@
     },
     {
       "name": "the palindrome",
-      "sheet": "chosen - controller",
+      "sheet": "pandapaxxy",
       "pve": {
         "masterwork": [
-          "reload speed"
+          "reload"
         ],
         "greatPerks": [
           "fluted barrel",
           "appended mag",
-          "overflow",
-          "one for all"
+          "outlaw",
+          "magnificent howl"
         ],
         "goodPerks": [
-          "smallbore",
           "corkscrew rifling",
-          "extended mag",
-          "outlaw",
-          "bottomless grief",
-          "rampage",
-          "thresh"
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "explosive payload",
+          "master of arms",
+          "desperate measures"
         ]
       },
       "pvp": {
@@ -48968,64 +49153,67 @@
           "range"
         ],
         "greatPerks": [
-          "smallbore",
-          "ricochet rounds",
-          "quickdraw",
-          "rangefinder"
-        ],
-        "goodPerks": [
-          "polygonal rifling",
           "fluted barrel",
-          "high-caliber rounds",
-          "killing wind",
-          "overflow"
-        ]
-      },
-      "mnk": false,
-      "controller": true
-    },
-    {
-      "name": "the palindrome",
-      "sheet": "chosen - mnk",
-      "pve": {
-        "masterwork": [
-          "reload speed"
-        ],
-        "greatPerks": [
-          "fluted barrel",
-          "appended mag",
-          "overflow",
-          "one for all"
+          "accurized rounds",
+          "elemental capacitor",
+          "opening shot"
         ],
         "goodPerks": [
-          "smallbore",
           "hammer-forged rifling",
-          "extended mag",
-          "outlaw",
-          "bottomless grief",
-          "rampage",
-          "thresh"
-        ]
-      },
-      "pvp": {
-        "masterwork": [
-          "range"
-        ],
-        "greatPerks": [
-          "hammer-forged rifling",
-          "high-caliber rounds",
-          "quickdraw",
-          "rangefinder"
-        ],
-        "goodPerks": [
           "smallbore",
-          "ricochet rounds",
-          "killing wind",
-          "overflow"
+          "explosive payload",
+          "to the pain",
+          "magnificent howl",
+          "snapshot sights"
         ]
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "the palindrome",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "outlaw",
+          "magnificent howl"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "tactical mag",
+          "flared magwell",
+          "explosive payload",
+          "master of arms",
+          "desperate measures"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accurized rounds",
+          "elemental capacitor",
+          "opening shot"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "explosive payload",
+          "to the pain",
+          "magnificent howl",
+          "snapshot sights"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "the prophet",
@@ -55491,6 +55679,96 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "warlord's spear",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "rewind rounds",
+          "killing tally"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "light battery",
+          "tactical battery",
+          "high-impact reserves",
+          "loose change",
+          "target lock",
+          "detonator beam"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "projection fuse",
+          "dynamic sway reduction",
+          "target lock"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-impact reserves",
+          "hip-fire grip",
+          "killing tally",
+          "desperate measures"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "warlord's spear",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "enhanced battery",
+          "rewind rounds",
+          "killing tally"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "light battery",
+          "tactical battery",
+          "high-impact reserves",
+          "loose change",
+          "target lock",
+          "detonator beam"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "projection fuse",
+          "dynamic sway reduction",
+          "target lock"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-impact reserves",
+          "hip-fire grip",
+          "killing tally",
+          "desperate measures"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "wastelander m5",
