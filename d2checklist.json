@@ -1,6 +1,6 @@
 {
   "title": "Provisional D2Checklist Rolls - Year 8, Season 27 (2025.07.22)",
-  "date": "2025-07-21T19:17:05.446Z",
+  "date": "2025-07-21T19:17:06.076Z",
   "manifestVersion": "235077.25.06.28.1930-2-bnet.60807",
   "rolls": [
     {
@@ -1417,6 +1417,96 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "admetus-d",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rapid hit",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "armor-piercing rounds",
+          "flared magwell",
+          "repulsor brace",
+          "recycled energy",
+          "withering gaze",
+          "demoralize"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "rapid hit",
+          "withering gaze"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "high-caliber rounds",
+          "lone wolf",
+          "keep away",
+          "precision instrument"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "admetus-d",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rapid hit",
+          "precision instrument"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "corkscrew rifling",
+          "armor-piercing rounds",
+          "flared magwell",
+          "repulsor brace",
+          "recycled energy",
+          "withering gaze",
+          "demoralize"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "handling"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "rapid hit",
+          "withering gaze"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "high-caliber rounds",
+          "lone wolf",
+          "keep away",
+          "precision instrument"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "adverse possession ix",
@@ -6206,6 +6296,97 @@
       "controller": false
     },
     {
+      "name": "boondoggle mk. 55",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "subsistence",
+          "adagio"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "encore",
+          "pugilist",
+          "swashbuckler"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "hammer-forged rifling",
+          "ricochet rounds",
+          "to the pain",
+          "tap the trigger"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "high-caliber rounds",
+          "closing time",
+          "hip-fire grip",
+          "adagio",
+          "offhand- strike"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "boondoggle mk. 55",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "appended mag",
+          "subsistence",
+          "adagio"
+        ],
+        "goodPerks": [
+          "corkscrew rifling",
+          "smallbore",
+          "armor-piercing rounds",
+          "flared magwell",
+          "encore",
+          "pugilist",
+          "swashbuckler"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "stability"
+        ],
+        "greatPerks": [
+          "smallbore",
+          "ricochet rounds",
+          "to the pain",
+          "tap the trigger"
+        ],
+        "goodPerks": [
+          "polygonal rifling",
+          "corkscrew rifling",
+          "high-caliber rounds",
+          "closing time",
+          "hip-fire grip",
+          "adagio",
+          "offhand- strike"
+        ]
+      },
+      "mnk": false,
+      "controller": true
+    },
+    {
       "name": "borrowed time",
       "sheet": "splicer - controller",
       "pve": {
@@ -10972,6 +11153,94 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "cruoris fr4",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accelerated coils",
+          "recycled energy",
+          "barrel constrictor"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "enhanced battery",
+          "ionized battery",
+          "discord",
+          "one for all",
+          "successful warm-up"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accelerated coils",
+          "threat detector",
+          "kickstart"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "projection fuse",
+          "barrel constrictor",
+          "successful warm-up"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "cruoris fr4",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "charge time"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accelerated coils",
+          "recycled energy",
+          "barrel constrictor"
+        ],
+        "goodPerks": [
+          "smallbore",
+          "enhanced battery",
+          "ionized battery",
+          "discord",
+          "one for all",
+          "successful warm-up"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range",
+          "charge time"
+        ],
+        "greatPerks": [
+          "fluted barrel",
+          "accelerated coils",
+          "threat detector",
+          "kickstart"
+        ],
+        "goodPerks": [
+          "hammer-forged rifling",
+          "smallbore",
+          "projection fuse",
+          "barrel constrictor",
+          "successful warm-up"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "crux termination iv",
@@ -37386,6 +37655,96 @@
       },
       "mnk": true,
       "controller": false
+    },
+    {
+      "name": "qua furor v",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rimestealer",
+          "dragonfly"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "armor-piercing rounds",
+          "flared magwell",
+          "feeding frenzy",
+          "triple tap",
+          "golden tricorn",
+          "one for all"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "offhand strike",
+          "golden tricorn"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "high-caliber rounds",
+          "recycled energy",
+          "tap the trigger",
+          "rampage"
+        ]
+      },
+      "mnk": true,
+      "controller": false
+    },
+    {
+      "name": "qua furor v",
+      "sheet": "pandapaxxy",
+      "pve": {
+        "masterwork": [
+          "reload speed"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "appended mag",
+          "rimestealer",
+          "dragonfly"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "armor-piercing rounds",
+          "flared magwell",
+          "feeding frenzy",
+          "triple tap",
+          "golden tricorn",
+          "one for all"
+        ]
+      },
+      "pvp": {
+        "masterwork": [
+          "range"
+        ],
+        "greatPerks": [
+          "arrowhead brake",
+          "ricochet rounds",
+          "offhand strike",
+          "golden tricorn"
+        ],
+        "goodPerks": [
+          "fluted barrel",
+          "smallbore",
+          "high-caliber rounds",
+          "recycled energy",
+          "tap the trigger",
+          "rampage"
+        ]
+      },
+      "mnk": false,
+      "controller": true
     },
     {
       "name": "qua xaphan v",

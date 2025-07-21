@@ -1,6 +1,14 @@
 Destiny 2 Godrolls for D2 Checklist
 ===================================
 
+Hersey World Drop Weapon Breakdown (pandapaxxy)
+
+Added
+* Admetus-D (Void Scout Rifle)
+* Boondoggle Mk. 55 (Kinetic Submachine Gun)
+* Cruoris FR4 (Arc Fusion Rifle)
+* Qua Furor V (Stasis Machine Gun)
+
 Hersey Act 2, 3 Weapon Breakdown (pandapaxxy)
 
 Added
